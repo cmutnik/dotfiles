@@ -1,0 +1,7 @@
+# Always forward X11 stuff back to where I am.
+# ServerAliveInterval 60
+# ForwardX11 yes
+# NumberOfPasswordPrompts 3
+# Protocol 2,1
+# Port 2266
+
